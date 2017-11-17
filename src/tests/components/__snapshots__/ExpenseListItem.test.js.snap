@@ -8,8 +8,6 @@ exports[`should render ExpensesListItem correctly 1`] = `
   >
     <h3>
       Gum
-       
-      1
     </h3>
   </Link>
   <p>
