@@ -14,3 +14,9 @@ yarn run dev-server
 # Run in production
 yarn run build:prod
 yarn run start
+
+# Deploy in heroku
+git push heroku master
+
+# Test
+yarn test -- --watch
